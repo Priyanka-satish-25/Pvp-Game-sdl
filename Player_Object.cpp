@@ -137,4 +137,3 @@ void Player_Object::transition(Player_Object::States s) {
             break;
     }
 }
-
